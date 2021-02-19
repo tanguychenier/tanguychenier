@@ -1,0 +1,20 @@
+import { Component } from '@angular/core';
+
+
+@Component({
+  selector: 'app-root',
+  templateUrl: './app.component.html',
+  styleUrls: ['./app.component.scss']
+})
+
+
+export class AppComponent {
+  title = 'github-tchenier';
+
+  menu: String | undefined;
+
+  selectionMenu(value: String) {
+    this.menu = value;
+  }
+
+}
