@@ -1,14 +1,31 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
-import { FormsModule } from '@angular/forms';
-import { VideoGamesComponent } from './video-games/video-games.component';
 
 const routes: Routes = [
-  { path: 'videogames', component: VideoGamesComponent }
+  { path: '',   redirectTo: '/default', pathMatch: 'full' },
+  {
+    path: 'videogames',
+    loadChildren: () => import('./video-games/video-games.module').then(m => m.VideoGamesModule)
+  },
+  {
+    path: 'software-engineering',
+    loadChildren: () => import('./software-engineering/software-engineering.module').then(m => m.SoftwareEngineeringModule)
+  },
+  {
+    path: 'hacking',
+    loadChildren: () => import('./hacking/hacking.module').then(m => m.HackingModule)
+  },
 ];
 
 @NgModule({
-  imports: [RouterModule.forRoot(routes), FormsModule],
+  imports: [
+    RouterModule.forRoot(
+      routes,
+      {
+        enableTracing: false, // <-- debugging purposes only
+      }
+    )   
+  ],
   exports: [RouterModule]
 })
 export class AppRoutingModule { }
