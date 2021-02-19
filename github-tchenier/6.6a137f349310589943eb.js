@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"8ZVp":function(n,o,e){"use strict";e.r(o),e.d(o,"VideoGamesModule",function(){return s});var t=e("ofXK"),r=e("IiRD"),i=e("fXoL");let s=(()=>{class n{}return n.\u0275mod=i.Cb({type:n}),n.\u0275inj=i.Bb({factory:function(o){return new(o||n)},imports:[[t.b,r.a]]}),n})()}}]);
