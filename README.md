@@ -1,6 +1,15 @@
-## Hello 👋 | <a href="https://tanguychenier.github.io/tanguychenier"> tanguychenier.github.io </a>
+## Welcome 👋 | <a href="https://tanguychenier.github.io/tanguychenier"> tanguychenier.github.io </a>
 
-I'm making video games and everything about Software Engineering
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
+[![Website Badge](https://img.shields.io/badge/-corporate-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
+[![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
+
+## Who am I
+🚀 Generalist developer, project manager and video game enthusiast.
+
+## What I do
+💭 As a freelance software engineer, I create mobile applications, websites and video games.     
+🎮 I am currently making a game for my [company](https://github.com/Tan-Software).
 
 ------------
 
