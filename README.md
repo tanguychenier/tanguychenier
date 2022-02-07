@@ -1,7 +1,7 @@
 ## Welcome 👋 | <a href="https://tanguychenier.github.io/tanguychenier"> tanguychenier.github.io </a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
-[![Website Badge](https://img.shields.io/badge/-corporate-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
+[![Website Badge](https://img.shields.io/badge/-tansoftware-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
 
 ## Who am I
