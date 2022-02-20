@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
 
 ## Who am I
-🚀 Generalist developer, project manager and video game enthusiast.
+🚀 Generalist developer, project manager and passionate about video games.
 
 ## What I do
 💭 As a freelance software engineer, I create mobile applications, websites and video games.     
