@@ -12,6 +12,12 @@
 🎮 I am currently making a game for my [company](https://github.com/Tan-Software).
 
 ------------
+<p>
+  <a href="https://www.buymeacoffee.com/tanguychenier"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tanguychenier" /></a>
+</p>     
+<br /><br />
+
+------------
 
 <p align="center">
   <a href="https://github.com/tanguychenier">
