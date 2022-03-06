@@ -8,7 +8,7 @@
 🚀 Generalist developer, project manager and passionate about video games.
 
 ## What I do
-💭 As a freelance software engineer, I create mobile applications, websites and video games.     
+💭 I create mobile applications, websites and video games.     
 🎮 I am currently making a game for my [company](https://github.com/Tan-Software).
 
 ------------
