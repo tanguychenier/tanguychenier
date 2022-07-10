@@ -13,7 +13,7 @@
 
 ------------
 
-📒 Latest article on Tansoftware
+📒 Latest articles on Tansoftware
 
 - [🥖[French] Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
