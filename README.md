@@ -13,9 +13,9 @@
 
 ------------
 
-<summary>📒 Latest article on Tansoftware</summary>
+📒 Latest article on Tansoftware
 
-- [🥖(French) Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+- [🥖[French] Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
 ------------
 
