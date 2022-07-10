@@ -13,6 +13,12 @@
 
 ------------
 
+<summary>📒 Latest article on Tansoftware</summary>
+
+- [🥖(French) Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+
+------------
+
 <p align="center">
   <a href="https://github.com/tanguychenier">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tanguychenier&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
