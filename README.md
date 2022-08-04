@@ -3,6 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
 [![Website Badge](https://img.shields.io/badge/-tansoftware-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
 [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
+[![Khanacademy Badge](https://img.shields.io/badge/-khanacademy-14BF96?style=flat&labelColor=14BF96&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
 
 ## Who am I
 🚀 Generalist developer, project manager and passionate about video games.
