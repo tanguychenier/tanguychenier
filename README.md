@@ -17,6 +17,7 @@
 
 📒 Latest articles on Tansoftware
 
+- [🥖[French] Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
 - [🥖[French] Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
 ------------
