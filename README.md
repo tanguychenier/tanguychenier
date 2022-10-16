@@ -21,6 +21,9 @@
 - [🥖[French] Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
 - [🥖[French] Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
+‍💻 Latest code sharing on Tansoftware
+- [🥖 Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
+
 ------------
 
 <p align="center">
