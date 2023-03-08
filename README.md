@@ -16,16 +16,16 @@
 
 ------------
 
-📒 Latest articles on Tansoftware
+#### 📒 Latest articles
 
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
-‍💻 Latest code sharings on Tansoftware
+#### ‍💻 Latest code sharings
 
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
 
-📝 Latest memo sharings on Tansoftware
+#### 📝 Latest memo sharings
 
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes_pratiques_git)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
