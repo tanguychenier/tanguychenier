@@ -18,18 +18,18 @@
 
 📒 Latest articles on Tansoftware
 
-- [🇫🇷 | Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
-- [🇫🇷 | Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
 ‍💻 Latest code sharings on Tansoftware
 
-- [🇫🇷 | 🇬🇧 | Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
 
 📝 Latest memo sharings on Tansoftware
 
-- [🇫🇷 | Bonnes pratiques git](https://github.com/Tan-Software/bonnes_pratiques_git)
-- [🇫🇷 | Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
-- [🇫🇷 | Clean code](https://github.com/Tan-Software/clean_code)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes_pratiques_git)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean_code)
 
 ------------
 
