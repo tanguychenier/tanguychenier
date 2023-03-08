@@ -18,11 +18,18 @@
 
 📒 Latest articles on Tansoftware
 
-- [🥖[French] Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
-- [🥖[French] Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+- [🇫🇷 | Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
+- [🇫🇷 | Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
 
-‍💻 Latest code sharing on Tansoftware
-- [🥖 Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
+‍💻 Latest code sharings on Tansoftware
+
+- [🇫🇷 | 🇬🇧 | Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
+
+📝 Latest memo sharings on Tansoftware
+
+- [🇫🇷 | Bonnes pratiques git](https://github.com/Tan-Software/bonnes_pratiques_git)
+- [🇫🇷 | Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
+- [🇫🇷 | Clean code](https://github.com/Tan-Software/clean_code)
 
 ------------
 
