@@ -23,15 +23,15 @@
 
 #### ‍💻 Latest code sharings
 
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate_linkedin_posting)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
 
 #### 📝 Latest memo sharings
 
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes_pratiques_git)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean_code)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Fonctionnement d'un compilateur](https://github.com/Tan-Software/fonctionnement_compilateur)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Les principes SOLID](https://github.com/Tan-Software/les_principes_solid)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes-pratiques-git)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean-architecture-hexagonale)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean-code)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Fonctionnement d'un compilateur](https://github.com/Tan-Software/fonctionnement-compilateur)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Les principes SOLID](https://github.com/Tan-Software/les-principes-solid)
 
 ------------
 
