@@ -31,7 +31,7 @@
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean_architecture_hexagonale)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean_code)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Fonctionnement d'un compilateur](https://github.com/Tan-Software/fonctionnement_compilateur)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Les principes SOLID](https://github.com/Tan-Software/les_principes_solid/blob/main/README.md)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Les principes SOLID](https://github.com/Tan-Software/les_principes_solid)
 
 ------------
 
