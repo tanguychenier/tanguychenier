@@ -1,4 +1,4 @@
-## Welcome 👋 | <a href="https://tanguychenier.github.io/tanguychenier"> tanguychenier.github.io </a>
+## Welcome 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
 [![Website Badge](https://img.shields.io/badge/-tansoftware-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
