@@ -6,7 +6,7 @@
 [![Khanacademy Badge](https://img.shields.io/badge/-khanacademy-14BF96?style=flat&labelColor=14BF96&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
 [![Duolingo Badge](https://img.shields.io/badge/-duolingo-yellow?style=flat&labelColor=yellow&logo=khanacademy&logoColor=white&link=https://www.duolingo.com/profile/tchenier)](https://www.duolingo.com/profile/tchenier)
 ## Who am I
-🚀 Generalist developer, project manager and passionate about video games.
+🚀 Software engineer passionate about video games.
 
 ## What I do
 💭 I create mobile applications, websites and video games.     
