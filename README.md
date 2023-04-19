@@ -25,6 +25,7 @@
 
 #### 📝 Latest memo sharings
 
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes-pratiques-git)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean-architecture-hexagonale)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean-code)
