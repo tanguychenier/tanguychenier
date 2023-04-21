@@ -24,7 +24,7 @@
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
 
 #### 📝 Latest memo sharings
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Mathématique pour la programmation de jeux vidéo](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)
+- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Mathématiques pour la programmation de jeux vidéo](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes-pratiques-git)
 - [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean architecture hexagonale](https://github.com/Tan-Software/clean-architecture-hexagonale)
