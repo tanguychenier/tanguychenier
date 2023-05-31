@@ -10,7 +10,6 @@
 
 ## What I do
 💭 I create mobile applications, websites and video games.     
-🎮 I am currently making a game for my [company](https://github.com/Tan-Software).
 
 ------------
 
