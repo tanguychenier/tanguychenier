@@ -24,7 +24,7 @@ I create mobile applications, websites, and video games. Here are the technologi
 |--------------------|--------------------------------------------------------------------------------------------------------------|
 | **Front-end**      | `Angular` `React` `Vue` `Nuxt` `JavaScript` `(Vanilla` `TypeScript` `jQuery)`                                |
 | **Back-end**       | `Django` `Spring` `Laravel` `Symfony`                                                                        |
-| **Mobile**         | `Xamarin` `React Native` `Flutter`                                                                           |
+| **Mobile**         | `Xamarin` `React Native` `Flutter` `Ionic`                                                                   |
 | **Databases**      | `PostgreSQL` `MySQL` `MongoDB`                                                                               |
 | **Search Engines** | `Elasticsearch`                                                                                              |
 | **Deployment**     | `Kubernetes` `Docker`                                                                                        |
