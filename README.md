@@ -1,5 +1,8 @@
 # Welcome 👋
 <div align="center">
+<img src="https://github.com/tanguychenier/tanguychenier/assets/22911157/9998af4a-f59e-404c-b0b3-de38c61cf59e" alt="undraw_programming_re_kg9v">
+
+<br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanguy_Chenier-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
 [![Website Badge](https://img.shields.io/badge/-TanSoftware-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
@@ -21,7 +24,7 @@ I create mobile applications, websites, and video games. Here are the technologi
 |--------------------|--------------------------------------------------------------------------------------------------------------|
 | **Front-end**      | `Angular` `React` `Vue` `Nuxt` `JavaScript` `(Vanilla` `TypeScript` `jQuery)`                                |
 | **Back-end**       | `Django` `Spring` `Laravel` `Symfony`                                                                        |
-| **Mobile**         | `Xamarin` `React Native` `Flutter` `MonoGame`                                                                |
+| **Mobile**         | `Xamarin` `React Native` `Flutter`                                                                           |
 | **Databases**      | `PostgreSQL` `MySQL` `MongoDB`                                                                               |
 | **Search Engines** | `Elasticsearch`                                                                                              |
 | **Deployment**     | `Kubernetes` `Docker`                                                                                        |
