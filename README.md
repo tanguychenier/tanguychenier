@@ -1,32 +1,53 @@
-## Welcome 👋
+# Welcome 👋
+<div align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
-[![Website Badge](https://img.shields.io/badge/-tansoftware-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
-[![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
-[![Khanacademy Badge](https://img.shields.io/badge/-khanacademy-14BF96?style=flat&labelColor=14BF96&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
-[![Duolingo Badge](https://img.shields.io/badge/-duolingo-yellow?style=flat&labelColor=yellow&logo=khanacademy&logoColor=white&link=https://www.duolingo.com/profile/tchenier)](https://www.duolingo.com/profile/tchenier)
-## Who am I
-🚀 Software engineer passionate about video games.
+[![Linkedin Badge](https://img.shields.io/badge/-Tanguy_Chenier-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
+[![Website Badge](https://img.shields.io/badge/-TanSoftware-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ChenierTanguy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
+[![Khanacademy Badge](https://img.shields.io/badge/-Khan_Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
+[![Duolingo Badge](https://img.shields.io/badge/-Duolingo-yellow?style=for-the-badge&logo=duolingo&logoColor=white&link=https://www.duolingo.com/profile/tchenier)](https://www.duolingo.com/profile/tchenier)
 
-## What I do
-💭 I create mobile applications, websites and video games.     
+</div>
 
-------------
+## 🚀 Who Am I?
 
-#### 📒 Latest articles
+A software engineer passionate about video games.
 
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Comprendre les principes SOLID - Single Responsability](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Utiliser Rector avec Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+## 💡 What I Do
 
-#### ‍💻 Latest code sharings
+I create mobile applications, websites, and video games. Here are the technologies I'm skilled in:
 
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> | <img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png" width="20"/> Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
+| Domain             | Technologies                                                                                                 |
+|--------------------|--------------------------------------------------------------------------------------------------------------|
+| **Front-end**      | `Angular` `React` `Vue` `Nuxt` `JavaScript` `(Vanilla` `TypeScript` `jQuery)`                                |
+| **Back-end**       | `Django` `Spring` `Laravel` `Symfony`                                                                        |
+| **Mobile**         | `Xamarin` `React Native` `Flutter` `MonoGame`                                                                |
+| **Databases**      | `PostgreSQL` `MySQL` `MongoDB`                                                                               |
+| **Search Engines** | `Elasticsearch`                                                                                              |
+| **Deployment**     | `Kubernetes` `Docker`                                                                                        |
+| **Hosting**        | `AWS` `Google Cloud` `Kinsta` `OVH`                                                                          |
+| **Video game**     | `MonoGame` `Unity` `Unreal` `Love2D`                                                                         |
 
-#### 📝 Latest memo sharings
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Mathématiques pour la programmation de jeux vidéo](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Bonnes pratiques git](https://github.com/Tan-Software/bonnes-pratiques-git)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Architecture hexagonale](https://github.com/Tan-Software/clean-architecture-hexagonale)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Clean code](https://github.com/Tan-Software/clean-code)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Fonctionnement d'un compilateur](https://github.com/Tan-Software/fonctionnement-compilateur)
-- [<img src="https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png" width="20"/> Les principes SOLID](https://github.com/Tan-Software/les-principes-solid)
+## 📘 Latest Articles
+
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Understanding SOLID Principles - Single Responsibility](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Using Rector with Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
+
+## 💻 Latest Code Shares
+
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
+
+## 📝 Latest Memos Shared
+
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Git Best Practices](https://github.com/Tan-Software/bonnes-pratiques-git)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Hexagonal Architecture](https://github.com/Tan-Software/clean-architecture-hexagonale)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Clean Code](https://github.com/Tan-Software/clean-code)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [How Compilers Work](https://github.com/Tan-Software/fonctionnement-compilateur)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [SOLID Principles](https://github.com/Tan-Software/les-principes-solid)
+
+> 💡 **Tip:** Keep an eye on this section for regular updates on my most recent work and contributions to the software development community.
+
+
+I'm always open to collaboration and sharing knowledge with the community. Feel free to connect with me!
