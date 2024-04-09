@@ -31,11 +31,6 @@ I create mobile applications, websites, and video games. Here are the technologi
 | **Hosting**        | `AWS` `Google Cloud` `Kinsta` `OVH`                                                                          |
 | **Video game**     | `MonoGame` `Unity` `Unreal` `Love2D`                                                                         |
 
-## 📘 Latest Articles
-
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Understanding SOLID Principles - Single Responsibility](https://tansoftware.com/community/article/comprendre-les-principes-solid---s)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Using Rector with Symfony](https://tansoftware.com/community/article/utiliser-rector-avec-symfony)
-
 ## 💻 Latest Code Shares
 
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
