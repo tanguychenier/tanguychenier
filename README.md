@@ -14,7 +14,7 @@
 
 ## 🚀 Who Am I?
 
-A software engineer passionate about video games.
+A Freelance fullstack web and mobile developer, working 100% remotely and passionate about video games.
 
 ## 💡 What I Do
 
