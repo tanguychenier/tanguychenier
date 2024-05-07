@@ -1,7 +1,5 @@
 # Welcome 👋
 <div align="center">
-<img src="https://github.com/tanguychenier/tanguychenier/assets/22911157/9998af4a-f59e-404c-b0b3-de38c61cf59e" alt="undraw_programming_re_kg9v">
-
 <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanguy_Chenier-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
