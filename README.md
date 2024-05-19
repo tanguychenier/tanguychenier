@@ -29,6 +29,10 @@ I create mobile applications, websites, and video games. Here are the technologi
 | **Hosting**        | `AWS` `Google Cloud` `Kinsta` `OVH`                                                                          |
 | **Video game**     | `MonoGame` `Unity` `Unreal` `Love2D`                                                                         |
 
+## 📰 Latest Articles Shared
+
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Get ChatGPT Equivalent in Under 5 Minutes with Ollama & Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
+
 ## 💻 Latest Code Shares
 
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Automate a post on LinkedIn](https://github.com/Tan-Software/automate-linkedin-posting)
