@@ -4,6 +4,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tanguy_Chenier-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanguy-chenier/)](https://www.linkedin.com/in/tanguy-chenier/)
 [![Website Badge](https://img.shields.io/badge/-TanSoftware-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com)](https://www.tansoftware.com)
+[![Website Badge](https://img.shields.io/badge/-TanSoftwareOS-47CCCC?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://www.tansoftware.com/os)](https://www.tansoftware.com/os)
 [![Twitter Badge](https://img.shields.io/badge/-@ChenierTanguy-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/ChenierTanguy)](https://twitter.com/ChenierTanguy)
 [![Khanacademy Badge](https://img.shields.io/badge/-Khan_Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
 [![Duolingo Badge](https://img.shields.io/badge/-Duolingo-yellow?style=for-the-badge&logo=duolingo&logoColor=white&link=https://www.duolingo.com/profile/tchenier)](https://www.duolingo.com/profile/tchenier)
