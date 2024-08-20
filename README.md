@@ -40,6 +40,7 @@ I create mobile applications, websites, and video games. Here are the technologi
 
 ## 📝 Latest Memos Shared
 
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de pogression vers le Software Craftsmanship](https://github.com/Tan-Software/Guide-de-Progression-vers-le-Software-Craftsmanship)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Git Best Practices](https://github.com/Tan-Software/bonnes-pratiques-git)  
