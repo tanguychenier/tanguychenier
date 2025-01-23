@@ -1,4 +1,5 @@
 # Welcome 👋
+I'm Tanguy Chénier, a developer with a passion for building meaningful and impactful software. I work remotely with clients around the world to bring their digital ideas to life.
 <div align="center">
 <br />
 
@@ -8,13 +9,9 @@
 
 </div>
 
-## 🚀 Who Am I?
-
-A Freelance fullstack web and mobile developer, working 100% remotely and passionate about video games.
-
 ## 💡 What I Do
 
-I create mobile applications, websites, and video games. Here are the technologies I'm skilled in:
+I create tailored mobile applications, websites, and video games, helping businesses optimize their digital presence. Here are the technologies I'm skilled in:
 
 | Domain             | Technologies                                                                                                 |
 |--------------------|--------------------------------------------------------------------------------------------------------------|
