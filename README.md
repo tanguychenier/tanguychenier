@@ -1,5 +1,5 @@
 # Welcome 👋
-I'm Tanguy Chénier, a developer with a passion for building meaningful and impactful software. I work remotely with clients around the world to bring their digital ideas to life.
+I'm Tanguy Chénier, a developer with a passion for building meaningful and impactful software. I love sharing knowledge and collaborating with people, and I work remotely with clients around the world to bring their digital ideas to life.
 <div align="center">
 <br />
 
