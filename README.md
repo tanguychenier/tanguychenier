@@ -1,5 +1,4 @@
 # Welcome 👋
-I’ve been coding since the 90s, when I first started creating scripts for mIRC, building anime quiz bots, and developing video games using languages like C, Assembly, and PHP. Over the years, I’ve honed my skills and worked with a wide range of technologies. Today, I continue my journey as a developer, collaborating remotely with clients around the world to bring their digital ideas to life. I also love sharing knowledge and helping others grow their technical skills.
 <div align="center">
 <br />
 
