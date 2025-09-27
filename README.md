@@ -4,6 +4,7 @@
 
 [![Khanacademy Badge](https://img.shields.io/badge/-Khan_Academy-14BF96?style=for-the-badge&logo=khanacademy&logoColor=white&link=https://fr.khanacademy.org/profile/tanguychenier)](https://fr.khanacademy.org/profile/tanguychenier)
 [![Duolingo Badge](https://img.shields.io/badge/-Duolingo-yellow?style=for-the-badge&logo=duolingo&logoColor=white&link=https://www.duolingo.com/profile/tchenier)](https://www.duolingo.com/profile/tchenier)
+[![Tansoftware OS Badge](https://img.shields.io/badge/-Tansoftware%20OS-0A66C2?style=for-the-badge&logo=linux&logoColor=white&link=https://www.tansoftware.com/os)](https://www.tansoftware.com/os)
 
 </div>
 
