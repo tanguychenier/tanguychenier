@@ -28,6 +28,10 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Get the ChatGPT equivalent in less than 5 minutes with Ollama and Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
 
+## 🛠️ Latest Tools Shared
+
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama — turn-key Docker stack](https://github.com/Tan-Software/opennotebook-ollama-ready) — clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
+
 ## 📝 Latest Memos Shared
 
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de pogression vers le Software Craftsmanship](https://github.com/Tan-Software/Guide-de-Progression-vers-le-Software-Craftsmanship)  
