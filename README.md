@@ -34,7 +34,7 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ## 🛠️ Latest Tools Shared
 
-![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama — turn-key Docker stack](https://github.com/Tan-Software/opennotebook-ollama-ready) — clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama — turn-key Docker stack](https://github.com/tanguychenier/opennotebook-ollama-ready) — clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
 
 ## 📝 Latest Memos Shared
 
