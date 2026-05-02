@@ -28,6 +28,10 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Get the ChatGPT equivalent in less than 5 minutes with Ollama and Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
 
+## 🚀 Latest Projects Shared
+
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard) — real-time public dashboard that screens TLE catalogues for satellite-to-satellite close approaches. FastAPI + Vue 3 + Cesium globe with real WGS-84 sub-satellite plotting, RFC 5545 iCalendar feed, CSV export, webhook alerts, and a persistent satellite watchlist. MIT.
+
 ## 🛠️ Latest Tools Shared
 
 ![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama — turn-key Docker stack](https://github.com/Tan-Software/opennotebook-ollama-ready) — clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
