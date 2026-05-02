@@ -38,14 +38,14 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ## 📝 Latest Memos Shared
 
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de pogression vers le Software Craftsmanship](https://github.com/Tan-Software/Guide-de-Progression-vers-le-Software-Craftsmanship)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/Tan-Software/Mathematiques-pour-la-programmation-de-jeux-video)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Domain Driven Design](https://github.com/Tan-Software/domain-driven-design)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Git Best Practices](https://github.com/Tan-Software/bonnes-pratiques-git)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Hexagonal Architecture](https://github.com/Tan-Software/clean-architecture-hexagonale)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Clean Code](https://github.com/Tan-Software/clean-code)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [How Compilers Work](https://github.com/Tan-Software/fonctionnement-compilateur)  
-![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [SOLID Principles](https://github.com/Tan-Software/les-principes-solid)
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de progression vers le Software Craftsmanship](https://github.com/tanguychenier/Guide-de-Progression-vers-le-Software-Craftsmanship)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/tanguychenier/Mathematiques-pour-la-programmation-de-jeux-video)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Domain Driven Design](https://github.com/tanguychenier/domain-driven-design)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Git Best Practices](https://github.com/tanguychenier/bonnes-pratiques-git)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Hexagonal Architecture](https://github.com/tanguychenier/architecture-hexagonale)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Clean Code](https://github.com/tanguychenier/clean-code)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [How Compilers Work](https://github.com/tanguychenier/fonctionnement-compilateur)  
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [SOLID Principles](https://github.com/tanguychenier/les-principes-solid)
 
 > 💡 **Tip:** Keep an eye on this section for regular updates on my most recent work and contributions to the software development community.
 
