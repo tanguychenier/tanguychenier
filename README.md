@@ -38,7 +38,7 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ## 📝 Latest Memos Shared
 
-> ℹ️ **Note** — Les cours et mémos historiquement rédigés et publiés sous l'organisation [Tan-Software](https://www.tansoftware.com) ont été migrés ici, sur mon compte personnel `tanguychenier`. Le contenu reste libre, ouvert et sous licence MIT, simplement réhébergé pour faciliter la maintenance et la visibilité.
+> ℹ️ **Note** — The courses and memos I originally authored under the [Tan-Software](https://www.tansoftware.com) organisation have been migrated here, to my personal `tanguychenier` account. The content remains free, open, and MIT-licensed — simply rehosted for easier maintenance and visibility.
 
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de progression vers le Software Craftsmanship](https://github.com/tanguychenier/Guide-de-Progression-vers-le-Software-Craftsmanship)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/tanguychenier/Mathematiques-pour-la-programmation-de-jeux-video)  
