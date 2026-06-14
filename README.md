@@ -30,15 +30,19 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 ## 🚀 Latest Projects Shared
 
-![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard) — real-time public dashboard that screens TLE catalogues for satellite-to-satellite close approaches. FastAPI + Vue 3 + Cesium globe with real WGS-84 sub-satellite plotting, RFC 5545 iCalendar feed, CSV export, webhook alerts, and a persistent satellite watchlist. MIT.
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard): real-time public dashboard that screens TLE catalogues for satellite-to-satellite close approaches. FastAPI + Vue 3 + Cesium globe with real WGS-84 sub-satellite plotting, RFC 5545 iCalendar feed, CSV export, webhook alerts, and a persistent satellite watchlist. MIT.
+
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [purgo](https://github.com/tanguychenier/purgo): Content Disarm & Reconstruction (CDR) engine in Rust that rebuilds untrusted files into safe ones instead of merely scanning them.
+
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [statflow](https://github.com/tanguychenier/statflow): privacy-first, cookieless web & product analytics, a self-hostable open-source alternative to Google Analytics. Audience and behavioral (heatmaps) in one tool. Symfony · Vue 3 · ClickHouse, no cookie banner. AGPL-3.0.
 
 ## 🛠️ Latest Tools Shared
 
-![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama — turn-key Docker stack](https://github.com/tanguychenier/opennotebook-ollama-ready) — clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
+![UK](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/United-Kingdom.png) [Open Notebook + Ollama, turn-key Docker stack](https://github.com/tanguychenier/opennotebook-ollama-ready): clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS (Kokoro) and STT (Whisper) auto-configured. Cross-platform (Windows / macOS / Linux), zero clicks in Settings.
 
 ## 📝 Latest Memos Shared
 
-> ℹ️ **Note** — The courses and memos I originally authored under the [Tan-Software](https://www.tansoftware.com) organisation have been migrated here, to my personal `tanguychenier` account. The content remains free, open, and MIT-licensed — simply rehosted for easier maintenance and visibility.
+> ℹ️ **Note**: The courses and memos I originally authored under the [Tan-Software](https://www.tansoftware.com) organisation have been migrated here, to my personal `tanguychenier` account. The content remains free, open, and MIT-licensed, simply rehosted for easier maintenance and visibility.
 
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de progression vers le Software Craftsmanship](https://github.com/tanguychenier/Guide-de-Progression-vers-le-Software-Craftsmanship)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/tanguychenier/Mathematiques-pour-la-programmation-de-jeux-video)  
