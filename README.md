@@ -44,6 +44,7 @@ I create tailored mobile applications, websites, and video games, helping busine
 
 > ℹ️ **Note**: The courses and memos I originally authored under the [Tan-Software](https://www.tansoftware.com) organisation have been migrated here, to my personal `tanguychenier` account. The content remains free, open, and MIT-licensed, simply rehosted for easier maintenance and visibility.
 
+![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Machine Learning](https://github.com/tanguychenier/Mathematiques-pour-le-Machine-Learning)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Guide de progression vers le Software Craftsmanship](https://github.com/tanguychenier/Guide-de-Progression-vers-le-Software-Craftsmanship)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Mathematics for Video Game Programming](https://github.com/tanguychenier/Mathematiques-pour-la-programmation-de-jeux-video)  
 ![FR](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/France.png) [Domain Driven Design](https://github.com/tanguychenier/domain-driven-design)  
