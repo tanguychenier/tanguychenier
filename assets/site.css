@@ -1,0 +1,33 @@
+:root{--green:#2BA98A;--green-dark:#1f8e74;--ink:#24292e;--muted:#586069;--line:#e1e4e8;--footer:#2f363d}
+*{box-sizing:border-box}
+html{height:100%}
+body{margin:0;min-height:100vh;display:flex;flex-direction:column;font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:#fff;line-height:1.62}
+main{flex:1 0 auto;width:100%;max-width:1160px;margin:0 auto;padding:30px 24px 56px}
+a{color:var(--green-dark)}
+.card{border:1px solid var(--line);border-radius:9px;padding:24px 28px;background:#fff;margin-bottom:26px}
+.welcome h1{margin:0 0 8px;font-size:30px}
+.welcome p{margin:0;color:var(--muted);max-width:760px}
+.domain h2{margin:0 0 4px;font-size:20px;display:flex;align-items:center;gap:10px}
+.emoji{font-size:20px}
+.repos{display:grid;grid-template-columns:repeat(auto-fill,minmax(248px,1fr));gap:13px;margin-top:16px}
+.repo{display:block;border:1px solid var(--line);border-radius:8px;padding:13px 15px;text-decoration:none;color:var(--ink);transition:border-color .15s,box-shadow .15s,transform .15s}
+.repo:hover{border-color:var(--green);box-shadow:0 2px 10px rgba(43,169,138,.15);transform:translateY(-1px)}
+.repo b{display:block;color:var(--green-dark);margin-bottom:3px;font-size:14.5px}
+.repo span{font-size:12.5px;color:var(--muted)}
+.tag{display:inline-block;margin-left:8px;padding:1px 7px;border-radius:20px;background:#eafaf5;color:var(--green-dark);font-size:11px;font-weight:600;vertical-align:middle}
+.back{display:inline-block;margin-bottom:18px;text-decoration:none;font-size:14px}
+.back:hover{text-decoration:underline}
+article{max-width:820px;margin-left:auto;margin-right:auto}
+.article-head{border-bottom:1px solid var(--line);padding-bottom:14px;margin-bottom:8px}
+.article-head h1{margin:0 0 4px;font-size:27px}
+.date{margin:0;color:var(--muted);font-size:13.5px}
+article h2{font-size:19px;margin:26px 0 10px}
+article p{margin:0 0 14px}
+article ul{margin:0 0 16px;padding-left:22px}
+article li{margin-bottom:8px}
+footer{flex-shrink:0;background:var(--footer);color:#c6cbd1;text-align:center;padding:34px 16px}
+footer a{color:#fff;text-decoration:none}
+footer a:hover{text-decoration:underline}
+.social{font-size:14px;margin-bottom:10px}
+.copy{font-size:12.5px;color:#959da5}
+@media(max-width:560px){main{padding:22px 16px 44px}.card{padding:20px}}
