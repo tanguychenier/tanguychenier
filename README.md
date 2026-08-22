@@ -90,6 +90,12 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 > The flag on each item below shows its language: 🇬🇧 English, 🇫🇷 French.
 
+## 🎬 Latest Video
+
+🇬🇧 [**Let's make a pong game**](https://www.youtube.com/watch?v=sTb2NgXinOQ) — building the classic from scratch, step by step, on [my channel](https://www.youtube.com/@tanguy_tec).
+
+[![Let's make a pong game](https://i.ytimg.com/vi/sTb2NgXinOQ/hqdefault.jpg)](https://www.youtube.com/watch?v=sTb2NgXinOQ)
+
 ## 📰 Latest Article
 
 🇬🇧 [Get the ChatGPT equivalent in less than 5 minutes with Ollama and Open WebUI](https://dev.to/tanguy_chenier/get-chatgpt-equivalent-in-under-5-minutes-with-ollama-open-webui-271e)
