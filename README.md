@@ -126,13 +126,18 @@ Privacy-first, cookieless web and product analytics. Symfony · Vue 3 · ClickHo
 
 </td>
 </tr>
+<tr>
+<td valign="top" width="33%">
+
+🇬🇧 **[Greffier](https://github.com/tanguychenier/greffier)**
+
+Records a meeting, transcribes it, identifies who's speaking, and drafts the minutes. 100% local speech-to-text and speaker diarization.
+
+</td>
+</tr>
 </table>
 
 ## 🛠️ Latest Tools
-
-🇬🇧 **[Greffier](https://github.com/tanguychenier/greffier)** — records a meeting, transcribes it, identifies who's speaking, and drafts the minutes. Local-first: speech-to-text and speaker diarization run entirely on-device. Hexagonal architecture, cross-platform (macOS, Linux, Windows).
-
-![Greffier: a meeting window with a pulsing recording dot and two live level meters](assets/greffier-demo.gif)
 
 🇫🇷 [macOS-style trackpad gestures on Ubuntu](https://github.com/tanguychenier/gestes-macos-sur-ubuntu): the three-finger swipes GNOME reserves for Wayland, brought back to an X11 session with Touchégg — plus a 3D cube workspace switch, the keyboard-shortcut map and an installer, uninstaller and diagnostic script. Guide, configuration and scripts, in French.
 
