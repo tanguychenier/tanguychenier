@@ -129,6 +129,14 @@ Privacy-first, cookieless web and product analytics. Symfony · Vue 3 · ClickHo
 <tr>
 <td valign="top" width="33%">
 
+🇬🇧 **[Symfony Security Auditor](https://github.com/tanguychenier/symfony-security-auditor)**
+
+Audits a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+
+</td>
+<tr>
+<td valign="top" width="33%">
+
 🇬🇧 **[Greffier](https://github.com/tanguychenier/greffier)**
 
 Records a meeting, transcribes it, identifies who's speaking, and drafts the minutes. 100% local speech-to-text and speaker diarization.
