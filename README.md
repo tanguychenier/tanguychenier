@@ -106,9 +106,9 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 <tr>
 <td valign="top" width="33%">
 
-🇬🇧 **[Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard)**
+🇬🇧 **[Next Security Auditor](https://github.com/tanguychenier/next-security-auditor)**
 
-Real-time satellite close-approach screening. FastAPI · Vue 3 · Cesium globe.
+Audits a Next.js app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
 
 </td>
 <td valign="top" width="33%">
