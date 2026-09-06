@@ -106,16 +106,16 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 <tr>
 <td valign="top" width="33%">
 
-🇬🇧 **[Next Security Auditor](https://github.com/tanguychenier/next-security-auditor)**
+🇬🇧 **[Vulnerability Hunter for Next.js](https://github.com/tanguychenier/vulnerability-hunter-next)**
 
-Audits a Next.js app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+Hunts vulnerabilities in a Next.js app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
 
 </td>
 <td valign="top" width="33%">
 
-🇬🇧 **[Symfony Security Auditor](https://github.com/tanguychenier/symfony-security-auditor)**
+🇬🇧 **[Vulnerability Hunter for Symfony](https://github.com/tanguychenier/vulnerability-hunter-symfony)**
 
-Audits a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+Hunts vulnerabilities in a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
 
 </td>
 <td valign="top" width="33%">
