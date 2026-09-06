@@ -113,11 +113,20 @@ Audits a Next.js app and reports a finding only once an HTTP request has reprodu
 </td>
 <td valign="top" width="33%">
 
+🇬🇧 **[Symfony Security Auditor](https://github.com/tanguychenier/symfony-security-auditor)**
+
+Audits a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+
+</td>
+<td valign="top" width="33%">
+
 🇬🇧 **[purgo](https://github.com/tanguychenier/purgo)**
 
 Rust CDR engine that rebuilds untrusted files into safe ones instead of scanning them.
 
 </td>
+</tr>
+<tr>
 <td valign="top" width="33%">
 
 🇬🇧 **[statflow](https://github.com/tanguychenier/statflow)**
@@ -125,16 +134,6 @@ Rust CDR engine that rebuilds untrusted files into safe ones instead of scanning
 Privacy-first, cookieless web and product analytics. Symfony · Vue 3 · ClickHouse.
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-🇬🇧 **[Symfony Security Auditor](https://github.com/tanguychenier/symfony-security-auditor)**
-
-Audits a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
-
-</td>
-<tr>
 <td valign="top" width="33%">
 
 🇬🇧 **[Greffier](https://github.com/tanguychenier/greffier)**
