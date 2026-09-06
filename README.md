@@ -108,14 +108,14 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 🇬🇧 **[Vulnerability Hunter for Next.js](https://github.com/tanguychenier/vulnerability-hunter-next)**
 
-Hunts vulnerabilities in a Next.js app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+Hunts vulnerabilities in a Next.js app and reports a finding only once an HTTP request has reproduced it. Accepted findings become a baseline, so it can fail a build. SARIF · GitHub Action.
 
 </td>
 <td valign="top" width="33%">
 
 🇬🇧 **[Vulnerability Hunter for Symfony](https://github.com/tanguychenier/vulnerability-hunter-symfony)**
 
-Hunts vulnerabilities in a Symfony app and reports a finding only once an HTTP request has reproduced it. SARIF · GitHub Action.
+Hunts vulnerabilities in a Symfony app and reports a finding only once an HTTP request has reproduced it. Accepted findings become a baseline, so it can fail a build. SARIF · GitHub Action.
 
 </td>
 <td valign="top" width="33%">
