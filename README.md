@@ -90,6 +90,8 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 > The flag on each item below shows its language: 🇬🇧 English, 🇫🇷 French.
 
+<!-- videos:debut -->
+
 ## 🎬 Latest Videos
 
 Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per stream, written from an empty file.
@@ -116,6 +118,8 @@ Building the classic from scratch, step by step.
 </td>
 </tr>
 </table>
+
+<!-- videos:fin -->
 
 ## 📰 Latest Article
 
