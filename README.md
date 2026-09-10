@@ -100,9 +100,9 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="50%" valign="top">
 
-[![Today I propose to code a Binding of Isaac-like](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+[![Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
 
-🇬🇧 [**Today I propose to code a Binding of Isaac-like**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
 
 A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
 
