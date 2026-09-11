@@ -118,8 +118,6 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
 
-[Source](https://github.com/tanguychenier/live-coding)
-
 </td>
 </tr>
 </table>
