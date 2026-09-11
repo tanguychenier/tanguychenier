@@ -100,11 +100,16 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="33%" valign="top">
 
+[![Let's make a pong game](https://i.ytimg.com/vi/sTb2NgXinOQ/hqdefault.jpg)](https://www.youtube.com/watch?v=sTb2NgXinOQ)
+
+🇬🇧 [**Let's make a pong game**](https://www.youtube.com/watch?v=sTb2NgXinOQ)
+
+</td>
+<td width="33%" valign="top">
+
 [![Today I propose to code a Street Fighter-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/gJOMl3DYnhg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJOMl3DYnhg)
 
 🇬🇧 [**Today I propose to code a Street Fighter-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-
 
 </td>
 <td width="33%" valign="top">
@@ -113,16 +118,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
 
-A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
-
-</td>
-<td width="33%" valign="top">
-
-[![Let's make a pong game](https://i.ytimg.com/vi/sTb2NgXinOQ/hqdefault.jpg)](https://www.youtube.com/watch?v=sTb2NgXinOQ)
-
-🇬🇧 [**Let's make a pong game**](https://www.youtube.com/watch?v=sTb2NgXinOQ)
-
-
+[Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 </tr>
