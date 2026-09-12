@@ -109,24 +109,26 @@ A first-person 3D engine written live in C and X11: one ray per column of the sc
 </td>
 <td width="33%" valign="top">
 
-[![Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+[![A Street Fighter-like in one sitting: four fighters, three rounds](https://i.ytimg.com/vi/gJOMl3DYnhg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJOMl3DYnhg)
 
-🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
-
-A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
-
-</td>
-<td width="33%" valign="top">
-
-[![Today I propose to code a Street Fighter-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/gJOMl3DYnhg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-🇬🇧 [**Today I propose to code a Street Fighter-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
+🇬🇧 [**A Street Fighter-like in one sitting: four fighters, three rounds**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
 
 A versus fighting game written in one sitting: four fighters, two stages, three rounds, and an opponent that thinks. [Source](https://github.com/tanguychenier/live-coding)
 
 </td>
+<td width="33%" valign="top">
+
+[![A Binding of Isaac-like, written live in one sitting](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+
+🇬🇧 [**A Binding of Isaac-like, written live in one sitting**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+
+A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
+
+</td>
 </tr>
 </table>
+
+Every stream, including the older ones, is on [the channel](https://www.youtube.com/@tanguy_tec/streams).
 
 <!-- videos:fin -->
 
