@@ -100,9 +100,20 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="33%" valign="top">
 
-[![Let's make a pong game](https://i.ytimg.com/vi/sTb2NgXinOQ/hqdefault.jpg)](https://www.youtube.com/watch?v=sTb2NgXinOQ)
+[![Writing a 3D engine in C, live from an empty file (part 1 of 4)](https://i.ytimg.com/vi/4QS_gnC-Vz8/hqdefault.jpg)](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
 
-🇬🇧 [**Let's make a pong game**](https://www.youtube.com/watch?v=sTb2NgXinOQ)
+🇬🇧 [**Writing a 3D engine in C, live from an empty file (part 1 of 4)**](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
+
+A first-person 3D engine written live in C and X11: one ray per column of the screen, and the walls stand up. Part 1 of 4. [Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like)
+
+</td>
+<td width="33%" valign="top">
+
+[![Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+
+🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+
+A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 <td width="33%" valign="top">
@@ -111,12 +122,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Today I propose to code a Street Fighter-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
 
-</td>
-<td width="33%" valign="top">
-
-[![Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
-
-🇬🇧 [**Today I propose to code a Binding of Isaac-like, from scratch, in Lua with LÖVE 2D**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
+A versus fighting game written in one sitting: four fighters, two stages, three rounds, and an opponent that thinks. [Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 </tr>
