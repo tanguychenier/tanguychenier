@@ -179,9 +179,9 @@ Records a meeting, transcribes it, identifies who's speaking, and drafts the min
 </td>
 <td valign="top" width="33%">
 
-🇬🇧 **[live-coding](https://github.com/tanguychenier/live-coding)**
+🇬🇧 **[Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard)**
 
-One game per stream, written from an empty file: a first-person 3D engine in C and X11, a fighting game and a roguelite in Lua. The commit lands when the stream ends.
+Screens public TLE catalogues for satellite-to-satellite close approaches and publishes the risk in real time. Python.
 
 </td>
 </tr>
@@ -189,7 +189,7 @@ One game per stream, written from an empty file: a first-person 3D engine in C a
 
 ## 🛠️ Latest Tools
 
-🇫🇷 [macOS-style trackpad gestures on Ubuntu](https://github.com/tanguychenier/gestes-macos-sur-ubuntu): the three-finger swipes GNOME reserves for Wayland, brought back to an X11 session with Touchégg — plus a 3D cube workspace switch, the keyboard-shortcut map and an installer, uninstaller and diagnostic script. Guide, configuration and scripts, in French.
+🇫🇷 [macOS-style trackpad gestures on Ubuntu](https://github.com/tanguychenier/gestes-macos-sur-ubuntu): the three-finger swipes GNOME reserves for Wayland, brought back to an X11 session with Touchégg, plus a 3D cube workspace switch, the keyboard-shortcut map and an installer, uninstaller and diagnostic script. Guide, configuration and scripts, in French.
 
 🇬🇧 [Open Notebook + Ollama, turn-key Docker stack](https://github.com/tanguychenier/opennotebook-ollama-ready): clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS and STT auto-configured. Cross-platform, zero clicks in Settings.
 
