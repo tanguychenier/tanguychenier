@@ -189,7 +189,7 @@ Screens public TLE catalogues for satellite-to-satellite close approaches and pu
 
 ## 🛠️ Latest Tools
 
-🇫🇷 [macOS-style trackpad gestures on Ubuntu](https://github.com/tanguychenier/gestes-macos-sur-ubuntu): the three-finger swipes GNOME reserves for Wayland, brought back to an X11 session with Touchégg, plus a 3D cube workspace switch, the keyboard-shortcut map and an installer, uninstaller and diagnostic script. Guide, configuration and scripts, in French.
+🇫🇷 [macOS-style trackpad gestures on Ubuntu](https://github.com/tanguychenier/gestes-macos-sur-ubuntu): the three-finger swipes GNOME reserves for Wayland, brought back to an X11 session with Touchégg — plus a 3D cube workspace switch, the keyboard-shortcut map and an installer, uninstaller and diagnostic script. Guide, configuration and scripts, in French.
 
 🇬🇧 [Open Notebook + Ollama, turn-key Docker stack](https://github.com/tanguychenier/opennotebook-ollama-ready): clone, run one script, get a fully local NotebookLM alternative with chat, embeddings, TTS and STT auto-configured. Cross-platform, zero clicks in Settings.
 
