@@ -177,13 +177,6 @@ Privacy-first, cookieless web and product analytics. Symfony · Vue 3 · ClickHo
 Records a meeting, transcribes it, identifies who's speaking, and drafts the minutes. 100% local speech-to-text and speaker diarization.
 
 </td>
-<td valign="top" width="33%">
-
-🇬🇧 **[Orbital Collision Risk Dashboard](https://github.com/tanguychenier/Orbital-Collision-Risk-Dashboard)**
-
-Screens public TLE catalogues for satellite-to-satellite close approaches and publishes the risk in real time. Python.
-
-</td>
 </tr>
 </table>
 
