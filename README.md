@@ -169,6 +169,13 @@ Privacy-first, cookieless web and product analytics. Symfony · Vue 3 · ClickHo
 Records a meeting, transcribes it, identifies who's speaking, and drafts the minutes. 100% local speech-to-text and speaker diarization.
 
 </td>
+<td valign="top" width="33%">
+
+🇬🇧 **[live-coding](https://github.com/tanguychenier/live-coding)**
+
+One game per stream, written from an empty file: a first-person 3D engine in C and X11, a fighting game and a roguelite in Lua. The commit lands when the stream ends.
+
+</td>
 </tr>
 </table>
 
