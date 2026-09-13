@@ -98,31 +98,22 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+[![The Keep, part 2: texturing a 3D engine in C, live](https://i.ytimg.com/vi/SeKs2vCeFUk/hqdefault.jpg)](https://www.youtube.com/watch?v=SeKs2vCeFUk)
+
+🇬🇧 [**The Keep, part 2: texturing a 3D engine in C, live**](https://www.youtube.com/watch?v=SeKs2vCeFUk)
+
+
+
+</td>
+<td width="50%" valign="top">
 
 [![Writing a 3D engine in C, live from an empty file (part 1 of 4)](https://i.ytimg.com/vi/4QS_gnC-Vz8/hqdefault.jpg)](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
 
 🇬🇧 [**Writing a 3D engine in C, live from an empty file (part 1 of 4)**](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
 
 A first-person 3D engine written live in C and X11: one ray per column of the screen, and the walls stand up. Part 1 of 4. [Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like)
-
-</td>
-<td width="33%" valign="top">
-
-[![A Street Fighter-like in one sitting: four fighters, three rounds](https://i.ytimg.com/vi/gJOMl3DYnhg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-🇬🇧 [**A Street Fighter-like in one sitting: four fighters, three rounds**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-A versus fighting game written in one sitting: four fighters, two stages, three rounds, and an opponent that thinks. [Source](https://github.com/tanguychenier/live-coding)
-
-</td>
-<td width="33%" valign="top">
-
-[![A Binding of Isaac-like, written live in one sitting](https://i.ytimg.com/vi/-rA3q0Ju6_c/hqdefault.jpg)](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
-
-🇬🇧 [**A Binding of Isaac-like, written live in one sitting**](https://www.youtube.com/watch?v=-rA3q0Ju6_c)
-
-A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 </tr>
