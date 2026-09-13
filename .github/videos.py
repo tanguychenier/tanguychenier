@@ -10,6 +10,7 @@ import json, os, re, urllib.request
 import xml.etree.ElementTree as ET
 
 CHAINE = "UCA0_E4hwxpnmqM-w6wwbTDw"
+CODE = "https://github.com/tanguychenier/live-coding"
 FLUX = f"https://www.youtube.com/feeds/videos.xml?channel_id={CHAINE}"
 COMBIEN = 3
 DEBUT, FIN = "<!-- videos:debut -->", "<!-- videos:fin -->"
@@ -31,7 +32,9 @@ def bloc(videos, resumes):
     largeur = 100 // max(1, len(videos))
     cases = []
     for v in videos:
-        r = resumes.get(v["id"], "")
+        # LE TITRE ET LA SOURCE, rien d'autre : c'est la regle qu'il a posee.
+        # Les cartes portaient un resume pour l'une et rien pour l'autre.
+        r = f"[Source]({resumes.get(v['id']) or CODE})"
         cases.append(f"""<td width="{largeur}%" valign="top">
 
 [![{v['titre']}](https://i.ytimg.com/vi/{v['id']}/hqdefault.jpg)](https://www.youtube.com/watch?v={v['id']})
