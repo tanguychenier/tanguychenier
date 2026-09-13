@@ -1,0 +1,7 @@
+{
+  "4QS_gnC-Vz8": "A first-person 3D engine written live in C and X11: one ray per column of the screen, and the walls stand up. Part 1 of 4. [Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like)",
+  "gJOMl3DYnhg": "A versus fighting game written in one sitting: four fighters, two stages, three rounds, and an opponent that thinks. [Source](https://github.com/tanguychenier/live-coding)",
+  "vVsFy6ikyIo": "A versus fighting game written in one sitting: four fighters, two stages, three rounds, and an opponent that thinks. [Source](https://github.com/tanguychenier/live-coding)",
+  "-rA3q0Ju6_c": "A whole roguelite in one sitting: twelve rooms from a seed, a key, a boss. Written live in Lua with LÖVE 2D. [Source](https://github.com/tanguychenier/live-coding)",
+  "sTb2NgXinOQ": "Building the classic from scratch, step by step."
+}

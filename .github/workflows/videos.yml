@@ -1,0 +1,31 @@
+name: Latest Videos
+
+# La section « Latest Videos » se tenait a la main, donc elle etait fausse des
+# le lendemain d'un direct. Elle se remplit maintenant toute seule, depuis le
+# flux RSS de la chaine : pas de cle, pas de quota, rien a autoriser.
+on:
+  schedule:
+    - cron: "17 5 * * *"      # tous les jours, 5 h 17 UTC
+  workflow_dispatch:           # et a la demande, depuis l'onglet Actions
+
+permissions:
+  contents: write
+
+jobs:
+  mettre-a-jour:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Ecrire la section depuis le flux de la chaine
+        run: python3 .github/videos.py
+      - name: Pousser si quelque chose a change
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "chore: refresh the latest videos from the channel feed"
+            git push
+          else
+            echo "rien a changer"
+          fi
