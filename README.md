@@ -104,7 +104,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
-[Source](https://github.com/tanguychenier/live-coding)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3)
 
 </td>
 <td width="33%" valign="top">
