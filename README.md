@@ -100,6 +100,15 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="33%" valign="top">
 
+[![Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)](https://i.ytimg.com/vi/laELzoFezKo/hqdefault.jpg)](https://www.youtube.com/watch?v=laELzoFezKo)
+
+🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=laELzoFezKo)
+
+[Source](https://github.com/tanguychenier/live-coding)
+
+</td>
+<td width="33%" valign="top">
+
 [![Writing a 3D engine in C, live: textures drawn in code (part 2 of 4)](https://i.ytimg.com/vi/SeKs2vCeFUk/hqdefault.jpg)](https://www.youtube.com/watch?v=SeKs2vCeFUk)
 
 🇬🇧 [**Writing a 3D engine in C, live: textures drawn in code (part 2 of 4)**](https://www.youtube.com/watch?v=SeKs2vCeFUk)
@@ -114,15 +123,6 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 🇬🇧 [**Writing a 3D engine in C, live from an empty file (part 1 of 4)**](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
 
 [Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-1)
-
-</td>
-<td width="33%" valign="top">
-
-[![A Street Fighter-like in one sitting: four fighters, three rounds](https://i.ytimg.com/vi/gJOMl3DYnhg/hqdefault.jpg)](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-🇬🇧 [**A Street Fighter-like in one sitting: four fighters, three rounds**](https://www.youtube.com/watch?v=gJOMl3DYnhg)
-
-[Source](https://github.com/tanguychenier/live-coding/tree/main/street-fighter-like)
 
 </td>
 </tr>
