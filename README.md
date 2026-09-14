@@ -100,9 +100,9 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="33%" valign="top">
 
-[![Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)](https://i.ytimg.com/vi/laELzoFezKo/hqdefault.jpg)](https://www.youtube.com/watch?v=laELzoFezKo)
+[![Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)](https://i.ytimg.com/vi/YKUUJJBlzc4/hqdefault.jpg)](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
-🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=laELzoFezKo)
+🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
 [Source](https://github.com/tanguychenier/live-coding)
 
