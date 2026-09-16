@@ -61,7 +61,7 @@ def bloc(videos, resumes, jeux):
         # Le lien du jeu mene a la page du jeu lui-meme, pas a l'accueil du site.
         r = f"[Source]({resumes.get(v['id']) or CODE})"
         if jeux.get(v["id"]):
-            r += f" · [Play]({jeux[v['id']]})"
+            r += f" · [Play in the browser]({jeux[v['id']]})"
         cases.append(f"""<td width="{largeur}%" valign="top">
 
 [![{v['titre']}](https://i.ytimg.com/vi/{v['id']}/hqdefault.jpg)](https://www.youtube.com/watch?v={v['id']})
@@ -73,10 +73,11 @@ def bloc(videos, resumes, jeux):
 </td>""")
     return (f"{DEBUT}\n\n## 🎬 Latest Videos\n\n"
             "Live coding on [my channel](https://www.youtube.com/@tanguy_tec), "
-            "one game per stream, written from an empty file.\n\n"
-            "<table>\n<tr>\n" + "\n".join(cases) + "\n</tr>\n</table>\n\n"
-            "Every stream, including the older ones, is on "
-            "[the channel](https://www.youtube.com/@tanguy_tec/streams).\n\n" + FIN)
+            "one game per stream, written from an empty file. Every game can be "
+            "played in the browser on [the games page]"
+            "(https://tanguychenier.github.io/live-coding/), and the link under "
+            "each card opens that game.\n\n"
+            "<table>\n<tr>\n" + "\n".join(cases) + "\n</tr>\n</table>\n\n" + FIN)
 
 
 def main():
