@@ -92,9 +92,13 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 <!-- videos:debut -->
 
+## 🎮 Play the games
+
+Every game written on the streams plays in the browser, no install. **[Play them here](https://tanguychenier.github.io/live-coding/)**, then read the code, one commit per step.
+
 ## 🎬 Latest Videos
 
-Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per stream, written from an empty file.
+Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file.
 
 <table>
 <tr>
@@ -104,7 +108,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
 
-[Source](https://github.com/tanguychenier/live-coding)
+[Source](https://github.com/tanguychenier/live-coding) · [Play](https://tanguychenier.github.io/live-coding/)
 
 </td>
 <td width="33%" valign="top">
@@ -113,7 +117,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)**](https://www.youtube.com/watch?v=ib2nzm4y6aI)
 
-[Source](https://github.com/tanguychenier/live-coding)
+[Source](https://github.com/tanguychenier/live-coding) · [Play](https://tanguychenier.github.io/live-coding/)
 
 </td>
 <td width="33%" valign="top">
@@ -122,7 +126,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3) · [Play](https://tanguychenier.github.io/live-coding/)
 
 </td>
 </tr>
