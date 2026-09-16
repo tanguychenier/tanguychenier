@@ -92,10 +92,6 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 <!-- videos:debut -->
 
-## 🎮 Play the games
-
-Every game written on the streams plays in the browser, no install. **[Play them here](https://tanguychenier.github.io/live-coding/)**, then read the code, one commit per step.
-
 ## 🎬 Latest Videos
 
 Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file.
@@ -104,29 +100,29 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 <tr>
 <td width="33%" valign="top">
 
-[![Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)](https://i.ytimg.com/vi/crEy4UbZ3qs/hqdefault.jpg)](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+[![The Keep, part 4 of 4, video 2. Something in the dark, an engine in C, live](https://i.ytimg.com/vi/crEy4UbZ3qs/hqdefault.jpg)](https://www.youtube.com/watch?v=crEy4UbZ3qs)
 
-🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+🇬🇧 [**The Keep, part 4 of 4, video 2. Something in the dark, an engine in C, live**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/)
-
-</td>
-<td width="33%" valign="top">
-
-[![Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)](https://i.ytimg.com/vi/ib2nzm4y6aI/hqdefault.jpg)](https://www.youtube.com/watch?v=ib2nzm4y6aI)
-
-🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)**](https://www.youtube.com/watch?v=ib2nzm4y6aI)
-
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/keep/)
 
 </td>
 <td width="33%" valign="top">
 
-[![Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)](https://i.ytimg.com/vi/YKUUJJBlzc4/hqdefault.jpg)](https://www.youtube.com/watch?v=YKUUJJBlzc4)
+[![The Keep, part 4 of 4, video 1. Something in the dark, an engine in C, live](https://i.ytimg.com/vi/ib2nzm4y6aI/hqdefault.jpg)](https://www.youtube.com/watch?v=ib2nzm4y6aI)
 
-🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
+🇬🇧 [**The Keep, part 4 of 4, video 1. Something in the dark, an engine in C, live**](https://www.youtube.com/watch?v=ib2nzm4y6aI)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3) · [Play](https://tanguychenier.github.io/live-coding/)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/keep/)
+
+</td>
+<td width="33%" valign="top">
+
+[![The Keep, part 3 of 4. The world comes out of a file, an engine in C, live](https://i.ytimg.com/vi/YKUUJJBlzc4/hqdefault.jpg)](https://www.youtube.com/watch?v=YKUUJJBlzc4)
+
+🇬🇧 [**The Keep, part 3 of 4. The world comes out of a file, an engine in C, live**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
+
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3) · [Play](https://tanguychenier.github.io/live-coding/keep/)
 
 </td>
 </tr>

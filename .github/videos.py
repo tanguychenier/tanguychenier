@@ -52,13 +52,16 @@ def dernieres(brut):
     return videos
 
 
-def bloc(videos, resumes):
+def bloc(videos, resumes, jeux):
     largeur = 100 // max(1, len(videos))
     cases = []
     for v in videos:
-        # LE TITRE ET LA SOURCE, rien d'autre : c'est la regle qu'il a posee.
-        # Les cartes portaient un resume pour l'une et rien pour l'autre.
+        # LE TITRE, LA SOURCE ET LE JEU, rien d'autre : c'est la regle qu'il a
+        # posee. Les cartes portaient un resume pour l'une et rien pour l'autre.
+        # Le lien du jeu mene a la page du jeu lui-meme, pas a l'accueil du site.
         r = f"[Source]({resumes.get(v['id']) or CODE})"
+        if jeux.get(v["id"]):
+            r += f" · [Play]({jeux[v['id']]})"
         cases.append(f"""<td width="{largeur}%" valign="top">
 
 [![{v['titre']}](https://i.ytimg.com/vi/{v['id']}/hqdefault.jpg)](https://www.youtube.com/watch?v={v['id']})
@@ -69,7 +72,7 @@ def bloc(videos, resumes):
 
 </td>""")
     return (f"{DEBUT}\n\n## 🎬 Latest Videos\n\n"
-            "Live coding on [my channel](https://www.youtube.com/@tanguy_tec): "
+            "Live coding on [my channel](https://www.youtube.com/@tanguy_tec), "
             "one game per stream, written from an empty file.\n\n"
             "<table>\n<tr>\n" + "\n".join(cases) + "\n</tr>\n</table>\n\n"
             "Every stream, including the older ones, is on "
@@ -85,6 +88,11 @@ def main():
     f = os.path.join(ICI, "resumes.json")
     if os.path.exists(f):
         resumes = json.load(open(f, encoding="utf-8"))
+    # la page ou le jeu de chaque direct se joue dans le navigateur
+    jeux = {}
+    f = os.path.join(ICI, "jeux.json")
+    if os.path.exists(f):
+        jeux = json.load(open(f, encoding="utf-8"))
     brut = flux()
     if brut is None:
         print("la chaine n'a pas repondu, le README garde ce qu'il a")
@@ -92,7 +100,7 @@ def main():
     videos = dernieres(brut)
     if not videos:
         raise SystemExit("le flux de la chaine n'a rien rendu")
-    neuf = re.sub(re.escape(DEBUT) + ".*?" + re.escape(FIN), lambda _: bloc(videos, resumes),
+    neuf = re.sub(re.escape(DEBUT) + ".*?" + re.escape(FIN), lambda _: bloc(videos, resumes, jeux),
                   texte, flags=re.S)
     open(chemin, "w", encoding="utf-8").write(neuf)
     print("section ecrite :", ", ".join(v["titre"][:40] for v in videos))
