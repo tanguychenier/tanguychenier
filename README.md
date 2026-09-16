@@ -108,7 +108,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
 
-[Source](https://github.com/tanguychenier/live-coding) · [Play](https://tanguychenier.github.io/live-coding/)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/)
 
 </td>
 <td width="33%" valign="top">
@@ -117,7 +117,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 
 🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)**](https://www.youtube.com/watch?v=ib2nzm4y6aI)
 
-[Source](https://github.com/tanguychenier/live-coding) · [Play](https://tanguychenier.github.io/live-coding/)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/)
 
 </td>
 <td width="33%" valign="top">
