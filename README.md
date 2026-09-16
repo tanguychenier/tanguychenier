@@ -94,7 +94,9 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 ## 🎬 Latest Videos
 
-Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file. Every game can be played in the browser on [the games page](https://tanguychenier.github.io/live-coding/), and the link under each card opens that game.
+Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file.
+
+🎮 **All the games are playable in the browser on the website, https://tanguychenier.github.io/live-coding/**
 
 <table>
 <tr>

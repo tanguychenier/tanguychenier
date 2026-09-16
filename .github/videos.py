@@ -73,10 +73,9 @@ def bloc(videos, resumes, jeux):
 </td>""")
     return (f"{DEBUT}\n\n## 🎬 Latest Videos\n\n"
             "Live coding on [my channel](https://www.youtube.com/@tanguy_tec), "
-            "one game per stream, written from an empty file. Every game can be "
-            "played in the browser on [the games page]"
-            "(https://tanguychenier.github.io/live-coding/), and the link under "
-            "each card opens that game.\n\n"
+            "one game per stream, written from an empty file.\n\n"
+            "🎮 **All the games are playable in the browser on the website, "
+            "https://tanguychenier.github.io/live-coding/**\n\n"
             "<table>\n<tr>\n" + "\n".join(cases) + "\n</tr>\n</table>\n\n" + FIN)
 
 
