@@ -100,29 +100,29 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec): one game per s
 <tr>
 <td width="33%" valign="top">
 
+[![Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)](https://i.ytimg.com/vi/crEy4UbZ3qs/hqdefault.jpg)](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+
+🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 2 of 2)**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+
+[Source](https://github.com/tanguychenier/live-coding)
+
+</td>
+<td width="33%" valign="top">
+
+[![Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)](https://i.ytimg.com/vi/ib2nzm4y6aI/hqdefault.jpg)](https://www.youtube.com/watch?v=ib2nzm4y6aI)
+
+🇬🇧 [**Writing a 3D engine in C, live: something in the dark (part 4 of 4, video 1 of 2)**](https://www.youtube.com/watch?v=ib2nzm4y6aI)
+
+[Source](https://github.com/tanguychenier/live-coding)
+
+</td>
+<td width="33%" valign="top">
+
 [![Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)](https://i.ytimg.com/vi/YKUUJJBlzc4/hqdefault.jpg)](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
 🇬🇧 [**Writing a 3D engine in C, live: the world comes out of a file (part 3 of 4)**](https://www.youtube.com/watch?v=YKUUJJBlzc4)
 
 [Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-3)
-
-</td>
-<td width="33%" valign="top">
-
-[![Writing a 3D engine in C, live: textures drawn in code (part 2 of 4)](https://i.ytimg.com/vi/SeKs2vCeFUk/hqdefault.jpg)](https://www.youtube.com/watch?v=SeKs2vCeFUk)
-
-🇬🇧 [**Writing a 3D engine in C, live: textures drawn in code (part 2 of 4)**](https://www.youtube.com/watch?v=SeKs2vCeFUk)
-
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-2)
-
-</td>
-<td width="33%" valign="top">
-
-[![Writing a 3D engine in C, live from an empty file (part 1 of 4)](https://i.ytimg.com/vi/4QS_gnC-Vz8/hqdefault.jpg)](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
-
-🇬🇧 [**Writing a 3D engine in C, live from an empty file (part 1 of 4)**](https://www.youtube.com/watch?v=4QS_gnC-Vz8)
-
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-1)
 
 </td>
 </tr>
