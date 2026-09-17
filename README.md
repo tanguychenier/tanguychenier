@@ -92,13 +92,11 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 <!-- videos:debut -->
 
-## 🎮 Play the games
-
-Every game written on the streams plays in the browser, no install. **[Play them here](https://tanguychenier.github.io/live-coding/)**, then read the code, one commit per step.
-
 ## 🎬 Latest Videos
 
 Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file.
+
+🎮 **All the games are playable in the browser on the website, https://tanguychenier.github.io/live-coding/**
 
 <table>
 <tr>
@@ -131,8 +129,6 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 </td>
 </tr>
 </table>
-
-Every stream, including the older ones, is on [the channel](https://www.youtube.com/@tanguy_tec/streams).
 
 <!-- videos:fin -->
 
