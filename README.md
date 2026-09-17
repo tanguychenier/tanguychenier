@@ -92,10 +92,6 @@ I build tailored web apps, mobile apps and video games. Here is my toolbox:
 
 <!-- videos:debut -->
 
-## 🎮 Play the games
-
-Every game written on the streams plays in the browser, no install. **[Play them here](https://tanguychenier.github.io/live-coding/)**, then read the code, one commit per step.
-
 ## 🎬 Latest Videos
 
 Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per stream, written from an empty file.
@@ -108,7 +104,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 
 🇬🇧 [**AXON, part 2 of 2. The zones, the swarm, the core and the end, in C, live**](https://www.youtube.com/watch?v=jfeygQDTY7s)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/rez-like) · [Play in the browser](https://tanguychenier.github.io/live-coding/axon/)
+[Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 <td width="33%" valign="top">
@@ -117,7 +113,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 
 🇬🇧 [**AXON, part 1 of 2. A wireframe 3D engine in C, live from an empty file**](https://www.youtube.com/watch?v=j4NwurDLC5c)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/rez-like/part-1) · [Play in the browser](https://tanguychenier.github.io/live-coding/axon/)
+[Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 <td width="33%" valign="top">
@@ -126,7 +122,7 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 
 🇬🇧 [**The Keep, part 4 of 4, video 2. Something in the dark, an engine in C, live**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play in the browser](https://tanguychenier.github.io/live-coding/keep/)
+[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play](https://tanguychenier.github.io/live-coding/keep/)
 
 </td>
 </tr>
