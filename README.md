@@ -17,6 +17,36 @@
 
 </div>
 
+## 🎮 My Indie Game, in Development
+
+<div align="center">
+
+*A game written in pure C, with no framework and no game engine. The music, the sound effects, the scenery and the characters are all made in code.*
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<a href="https://youtu.be/M1AABR6tnn8"><img src="https://i.ytimg.com/vi/M1AABR6tnn8/maxresdefault.jpg" alt="A new scene from my indie game, part 1, written in pure C with no engine" width="100%"></a>
+<br />
+<a href="https://youtu.be/M1AABR6tnn8"><b>▶ Part 1, the great gate</b></a>
+</td>
+<td width="50%" align="center" valign="top">
+<a href="https://youtu.be/PoFJE2P1fvk"><img src="https://i.ytimg.com/vi/PoFJE2P1fvk/maxresdefault.jpg" alt="A new scene from my indie game, part 2, written in pure C with no engine" width="100%"></a>
+<br />
+<a href="https://youtu.be/PoFJE2P1fvk"><b>▶ Part 2, through the glass hole</b></a>
+</td>
+</tr>
+</table>
+
+Behind the glass hole lies the heart of evil, a world that depends on the way you play and interact with it.<br />
+Halfway between a Metroid with a semi-open world and a Dune whose volumes are too large for the camera, dynamic at times and contemplative at others.<br />
+**Release planned for late 2027 on consoles and PC.**
+
+[![Follow the development on X](https://img.shields.io/badge/Follow_the_development-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ChenierTanguy)
+[![Watch on YouTube](https://img.shields.io/badge/Watch_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@tanguy_tec)
+
+</div>
+
 ## 💡 What I Do
 
 I build tailored web apps, mobile apps and video games. Here is my toolbox:
