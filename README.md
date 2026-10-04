@@ -132,29 +132,29 @@ Live coding on [my channel](https://www.youtube.com/@tanguy_tec), one game per s
 <tr>
 <td width="33%" valign="top">
 
-[![AXON, part 2 of 2. The zones, the swarm, the core and the end, in C, live](https://i.ytimg.com/vi/jfeygQDTY7s/hqdefault.jpg)](https://www.youtube.com/watch?v=jfeygQDTY7s)
+[![Demon form, first test, a new scene from my indie game in pure C with no engine (work in progress)](https://i.ytimg.com/vi/bndTJK5lRyk/hqdefault.jpg)](https://www.youtube.com/watch?v=bndTJK5lRyk)
 
-🇬🇧 [**AXON, part 2 of 2. The zones, the swarm, the core and the end, in C, live**](https://www.youtube.com/watch?v=jfeygQDTY7s)
+🇬🇧 [**Demon form, first test, a new scene from my indie game in pure C with no engine (work in progress)**](https://www.youtube.com/watch?v=bndTJK5lRyk)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/rez-like/part-2) · [Play in the browser](https://tanguychenier.github.io/live-coding/axon/)
-
-</td>
-<td width="33%" valign="top">
-
-[![AXON, part 1 of 2. A wireframe 3D engine in C, live from an empty file](https://i.ytimg.com/vi/j4NwurDLC5c/hqdefault.jpg)](https://www.youtube.com/watch?v=j4NwurDLC5c)
-
-🇬🇧 [**AXON, part 1 of 2. A wireframe 3D engine in C, live from an empty file**](https://www.youtube.com/watch?v=j4NwurDLC5c)
-
-[Source](https://github.com/tanguychenier/live-coding/tree/main/rez-like/part-1) · [Play in the browser](https://tanguychenier.github.io/live-coding/axon/)
+[Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 <td width="33%" valign="top">
 
-[![The Keep, part 4 of 4, video 2. Something in the dark, an engine in C, live](https://i.ytimg.com/vi/crEy4UbZ3qs/hqdefault.jpg)](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+[![A new scene from my indie game, part 2, written in pure C with no engine (work in progress)](https://i.ytimg.com/vi/PoFJE2P1fvk/hqdefault.jpg)](https://www.youtube.com/watch?v=PoFJE2P1fvk)
 
-🇬🇧 [**The Keep, part 4 of 4, video 2. Something in the dark, an engine in C, live**](https://www.youtube.com/watch?v=crEy4UbZ3qs)
+🇬🇧 [**A new scene from my indie game, part 2, written in pure C with no engine (work in progress)**](https://www.youtube.com/watch?v=PoFJE2P1fvk)
 
-[Source](https://github.com/tanguychenier/live-coding/tree/main/wolfenstein-like/part-4) · [Play in the browser](https://tanguychenier.github.io/live-coding/keep/)
+[Source](https://github.com/tanguychenier/live-coding)
+
+</td>
+<td width="33%" valign="top">
+
+[![A new scene from my indie game, part 2 (work in progress)](https://i.ytimg.com/vi/VdAMHg2n7rA/hqdefault.jpg)](https://www.youtube.com/watch?v=VdAMHg2n7rA)
+
+🇬🇧 [**A new scene from my indie game, part 2 (work in progress)**](https://www.youtube.com/watch?v=VdAMHg2n7rA)
+
+[Source](https://github.com/tanguychenier/live-coding)
 
 </td>
 </tr>
